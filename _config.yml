@@ -58,22 +58,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Benjamin Smith"
+  avatar : "/assets/images/BenjaminSmith.jpg"
+  bio    : "DevOps Engineer; making sites, games, and OSS"
   links:
-    - label: "Website"
+    - label: "Stark Studios"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://starkstudios.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Benbentwo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/benjamin-smith-15378010a/"
 
 footer:
   links:
@@ -82,11 +79,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/StarkStudios-io"
+    - label: "Stark Studios"
+      icon: "fas fa-fw fa-link"
+      url: "https://starkstudios.io/"
 defaults:
   # _posts
   - scope:
