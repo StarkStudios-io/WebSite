@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to StarkStudios.io!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
@@ -8,7 +8,7 @@ tags:
   - general-info
 ---
 
-## Welcome to StarkStudios.io!
+##### Welcome to StarkStudios.io!
 
 ```ruby
 def print_hi(name)
