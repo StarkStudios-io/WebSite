@@ -89,12 +89,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout: splash
+      author_profile: false
+#      read_time: false
+#      comments: true
+#      share: true
+#      related: true
   # _pages
   - scope:
       path: "_pages"
