@@ -59,7 +59,6 @@ plugins:
 
 author:
   name   : "Benjamin Smith"
-  avatar : "/assets/images/BenjaminSmith.jpg"
   bio    : "DevOps Engineer; making sites, games, and OSS"
   links:
     - label: "Stark Studios"
@@ -101,7 +100,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
