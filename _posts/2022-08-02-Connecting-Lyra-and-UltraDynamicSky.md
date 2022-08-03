@@ -28,4 +28,3 @@ This is a simple setup to connect `Unreal Engine's Lyra` **Sound** Settings Menu
 {% include gallery %}
 
 
-![LyraAudioGraph_UDS](/assets/images/Posts/AudioGraph_LyraUDS.png)
